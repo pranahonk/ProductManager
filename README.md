@@ -1,5 +1,5 @@
 # ProductManager
-This repository is using spring boot java and MNC method with mySQL database with CRUD product
+This repository is using spring boot java and MVC method with mySQL database with CRUD product
 
 
 # Create MySQL Database
