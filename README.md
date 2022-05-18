@@ -15,3 +15,5 @@ CREATE TABLE `product` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 ```
+
+The name of the database schema is **sales**.
